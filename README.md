@@ -1,2 +1,2 @@
 # dgmPortfolio
-DGM Portfolio for UVU -- Bootsrap Practice
+DGM Portfolio for UVU -- Basic Bootsrap Practice
